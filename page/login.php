@@ -9,6 +9,7 @@
 <body>
     <form action="">
         <input type="text">
+        <button>login</button>
     </form>
 </body>
 </html>
